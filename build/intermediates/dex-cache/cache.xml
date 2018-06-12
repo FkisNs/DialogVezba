@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nikola\.android\build-cache\3c993b82fbcf9a8048b3709091b396145790e372\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Users\Nikola\Downloads\AndroidAppDevelopment-master\AndroidAppDevelopment-master\Examples\Example23\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aa3201b704654babb35d9630a7b8859985757c7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nikola\.android\build-cache\6406c783e8aeb8b08baf4c1f2c9addd22f0bbe14\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\Nikola\Downloads\AndroidAppDevelopment-master\AndroidAppDevelopment-master\Examples\Example23\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e3b4be483a433518e246ff93050d75318f34414f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nikola\.android\build-cache\e7ace0a1ce2e4bcfe96a953f14b31ea1c4f8c9ab\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\Nikola\Downloads\AndroidAppDevelopment-master\AndroidAppDevelopment-master\Examples\Example23\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aca6f8e61fb47f16338c1c9c06d846c36f9ee337\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nikola\.android\build-cache\12e645ef8727a5f9fcb824e0de843f1bd10f5b33\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\Nikola\Downloads\AndroidAppDevelopment-master\AndroidAppDevelopment-master\Examples\Example23\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ec90566cae401840ea37a92de11083fc886239b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nikola\.android\build-cache\21b9dfb581fcdffb6244e6ede4c90b144bc0ba83\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\Nikola\Downloads\AndroidAppDevelopment-master\AndroidAppDevelopment-master\Examples\Example23\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a88058f95a3d442c72781dd1f64ab6548155bc18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nikola\.android\build-cache\e7ace0a1ce2e4bcfe96a953f14b31ea1c4f8c9ab\output\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\Nikola\Downloads\AndroidAppDevelopment-master\AndroidAppDevelopment-master\Examples\Example23\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_92311f4446f12d3357956de05064aeba431121d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nikola\Downloads\AndroidAppDevelopment-master\AndroidAppDevelopment-master\Examples\Example23\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Nikola\Downloads\AndroidAppDevelopment-master\AndroidAppDevelopment-master\Examples\Example23\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3e6e3f0cb841749faa457b850f5c1d221a5892be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nikola\.android\build-cache\fce06bcd7c2c70808c203c8ff522e5a12af846e8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\Users\Nikola\Downloads\AndroidAppDevelopment-master\AndroidAppDevelopment-master\Examples\Example23\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_efdc0719e5ed111db437660e5bdc512ab12a8d55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nikola\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\Nikola\Downloads\AndroidAppDevelopment-master\AndroidAppDevelopment-master\Examples\Example23\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_ec0a9bf459db21e2306ccb782f25135754defc3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nikola\Downloads\AndroidAppDevelopment-master\AndroidAppDevelopment-master\Examples\Example23\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b3e724ccffb335063a25bd0c59d7bb1ca30aba39">
+        <dex dex="C:\Users\Nikola\Downloads\AndroidAppDevelopment-master\AndroidAppDevelopment-master\Examples\Example23\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4a9b7490dea00bce149e9a9fd45ef8269f07195f\classes.dex" />
+    </item>
+
+</items>
