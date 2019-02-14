@@ -301,7 +301,7 @@ public class MainActivity extends AppCompatActivity implements OnProductSelected
     }
 
     /**
-     * Lada zelimo da se odredjeni zadaci ponavljaju, potrebno je
+     * Kada zelimo da se odredjeni zadaci ponavljaju, potrebno je
      * da registrujemo manager koji ce motriti kada je vreme da se
      * taj posao obavi. Kada registruje vreme za pokretanje zadatka
      * on emituje Intent operativnom sistemu sta je potrebno da se
@@ -325,7 +325,7 @@ public class MainActivity extends AppCompatActivity implements OnProductSelected
             flags: 0 - flag koji opisuje sta da se radi sa intent-om kada se poziv desi
             detaljnije:https://developer.android.com/reference/android/app/PendingIntent.html#getService(android.content.Context, int, android.content.Intent, int)
         */
-        PendingIntent pendingIntent = PendingIntent.getService(this, 0, intent, 0);
+        pendingIntent = PendingIntent.getService(this, 0, intent, 0);
 
         //koristicemo sistemski AlarmManager pa je potrebno da dobijemo
         //njegovu instancu.
