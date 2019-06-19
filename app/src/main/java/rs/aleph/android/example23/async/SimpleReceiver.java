@@ -45,6 +45,10 @@ public class SimpleReceiver extends BroadcastReceiver{
         if(intent.getAction().equals("SYNC_DATA")){
             int resultCode = intent.getExtras().getInt("RESULT_CODE");
 
+            if(intent.getAction().equals("COMMENT_ARRIVED")){
+                 resultCode = intent.getExtras().getInt("COMMENT_CODE");
+            }
+
             prepareNotification(resultCode, context);
         }
     }

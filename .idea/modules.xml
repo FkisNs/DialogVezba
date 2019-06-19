@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Example23.iml" filepath="$PROJECT_DIR$/Example23.iml" />
-      <module fileurl="file://C:\Users\Nikola\Downloads\AndroidAppDevelopment-master\AndroidAppDevelopment-master\Examples\Example23\Termin23.iml" filepath="C:\Users\Nikola\Downloads\AndroidAppDevelopment-master\AndroidAppDevelopment-master\Examples\Example23\Termin23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DialogVezba.iml" filepath="$PROJECT_DIR$/DialogVezba.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://C:\Users\Nikola\Downloads\AndroidAppDevelopment-master\AndroidAppDevelopment-master\Examples\Example23\app\app.iml" filepath="C:\Users\Nikola\Downloads\AndroidAppDevelopment-master\AndroidAppDevelopment-master\Examples\Example23\app\app.iml" />
     </modules>
   </component>
 </project>

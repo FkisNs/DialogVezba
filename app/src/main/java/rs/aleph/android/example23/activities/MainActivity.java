@@ -23,7 +23,6 @@ import android.widget.RelativeLayout;
 import android.widget.Toast;
 
 import java.util.ArrayList;
-import java.util.Calendar;
 
 import rs.aleph.android.example23.R;
 import rs.aleph.android.example23.adapters.DrawerListAdapter;
@@ -46,6 +45,7 @@ public class MainActivity extends AppCompatActivity implements OnProductSelected
         }
     }
 
+    private AlertDialog dijalog;
     private DrawerLayout drawerLayout;
     private ListView drawerList;
     private ActionBarDrawerToggle drawerToggle;
@@ -174,12 +174,7 @@ public class MainActivity extends AppCompatActivity implements OnProductSelected
                 startService(intent);
                 break;
             case R.id.action_add:
-                try {
-                    Toast.makeText(MainActivity.this, "Sinhronizacija pokrenuta u glavnoj niti. Nije dobro :(",Toast.LENGTH_SHORT).show();
-                    Thread.sleep(6000);
-                } catch (InterruptedException e) {
-                    e.printStackTrace();
-                }
+                showDialog();
                 break;
         }
 
@@ -362,6 +357,17 @@ public class MainActivity extends AppCompatActivity implements OnProductSelected
         super.onPause();
 
     }
+    private void showDialog(){
+        if (dijalog == null){
+            dijalog = new DialogPokusaj(this).prepareDialog();
+        } else {
+            if (dijalog.isShowing()){
+                dijalog.dismiss();
+            }
+        }
+        dijalog.show();
+    }
+
 
 }
 
